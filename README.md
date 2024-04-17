@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Victor</h1>
 <h3 align="left">A Computer Science Student in Indonesia currently working as a Fulltime Laboratory Assistant in BINUS University</h3>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Computer Network, Web3**
 
 
 <h3 align="left">Languages and Tools:</h3>
