@@ -22,3 +22,5 @@ I am Victor, a computer science undergraduate from [BINUS University]([https://u
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=victorhalimm&include_all_commits=true&count_private=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5)
