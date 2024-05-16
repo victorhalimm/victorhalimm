@@ -1,6 +1,6 @@
 ## Hello! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20">
 
-I am Victor, a computer science undergraduate from [BINUS University]([https://utdallas.edu/](https://binus.ac.id/)). I am a tech enthusiast & currently working as a laboratory assistant. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Victor, a computer science undergraduate from [BINUS University]([https://utdallas.edu/](https://binus.ac.id/)). I am a tech enthusiast & currently working as a laboratory assistant. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-victorhalimm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorhalimm/)](https://www.linkedin.com/in/victorhalimm/)
 [![Instagram Badge](https://img.shields.io/badge/-victorhalim_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/victorhalim_/)](https://instagram.com/victorhalim_)
